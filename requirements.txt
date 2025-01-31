@@ -1,2 +1,5 @@
-streamlit
+langchain-community
+langchain-openai
 openai
+SQLAlchemy
+streamlit
